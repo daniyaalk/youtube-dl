@@ -215,6 +215,7 @@ from .ceskatelevize import CeskaTelevizeIE
 from .channel9 import Channel9IE
 from .charlierose import CharlieRoseIE
 from .chaturbate import ChaturbateIE
+from .koofr import KoofrIE
 from .chilloutzone import ChilloutzoneIE
 from .chirbit import (
     ChirbitIE,
